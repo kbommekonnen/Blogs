@@ -141,4 +141,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 ROOT_URLCONF = 'elearning.urls'
 TAILWIND_APP_NAME = 'main'
-NPM_BIN_PATH = 'c:/Program Files/nodejs/npm.cmd'
+NPM_BIN_PATH = 'c:/Program Files/nodejs/npm.cmd'    
+LOGOUT_URL = '/'
